@@ -19,6 +19,8 @@ python3 main.py
 
 ## Documentation
 
+The API is currently deployed to [https://bojo.maurom.dev/](https://bojo.maurom.dev/)
+
 * `/` - Base URL - Returns a quote, in JSON format 
     - Will return a dictionary with a key `quote` who's corresponding value will be the quote.
         ```
