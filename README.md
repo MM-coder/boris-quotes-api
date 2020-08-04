@@ -8,6 +8,7 @@ Insipired by [Boris Johnson Bot](https://github.com/volcanicer/varsity/blob/mast
 ### Requirements:
 * cmd (if on linux: terminal emulator & on mac: terminal)
 * git (https://git-scm.com/downloads)
+* python3 (https://python.org/downloads)
 
 ```
 git clone https://github.com/MM-coder/boris-quotes-api.git
