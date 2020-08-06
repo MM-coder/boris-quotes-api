@@ -1,6 +1,6 @@
 # Boris Johnson Quotes API
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Insipired by [Boris Johnson Bot](https://github.com/volcanicer/varsity/blob/master/Miscellaneous/borisbot.py)
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://maurom.dev"><img src="https://avatars1.githubusercontent.com/u/22800592?v=4" width="100px;" alt=""/><br /><sub><b>Mauro M.</b></sub></a><br /><a href="https://github.com/MM-coder/boris-quotes-api/commits?author=MM-coder" title="Code">💻</a></td>
+    <td align="center"><a href="https://heyjack.info"><img src="https://avatars0.githubusercontent.com/u/34974801?v=4" width="100px;" alt=""/><br /><sub><b>TheRealHeyJack</b></sub></a><br /><a href="#content-TheRealHeyJack" title="Content">🖋</a></td>
   </tr>
 </table>
 
